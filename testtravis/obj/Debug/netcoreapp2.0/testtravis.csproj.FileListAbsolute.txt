@@ -1,0 +1,10 @@
+c:\dev\git\testtravis\testtravis\bin\Debug\netcoreapp2.0\testtravis.deps.json
+c:\dev\git\testtravis\testtravis\bin\Debug\netcoreapp2.0\testtravis.runtimeconfig.json
+c:\dev\git\testtravis\testtravis\bin\Debug\netcoreapp2.0\testtravis.runtimeconfig.dev.json
+c:\dev\git\testtravis\testtravis\bin\Debug\netcoreapp2.0\testtravis.dll
+c:\dev\git\testtravis\testtravis\bin\Debug\netcoreapp2.0\testtravis.pdb
+c:\dev\git\testtravis\testtravis\obj\Debug\netcoreapp2.0\testtravis.csproj.CoreCompileInputs.cache
+c:\dev\git\testtravis\testtravis\obj\Debug\netcoreapp2.0\testtravis.AssemblyInfoInputs.cache
+c:\dev\git\testtravis\testtravis\obj\Debug\netcoreapp2.0\testtravis.AssemblyInfo.cs
+c:\dev\git\testtravis\testtravis\obj\Debug\netcoreapp2.0\testtravis.dll
+c:\dev\git\testtravis\testtravis\obj\Debug\netcoreapp2.0\testtravis.pdb

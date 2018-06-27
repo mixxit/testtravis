@@ -1,0 +1,13 @@
+c:\dev\git\testtravis\testtravistests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\dev\git\testtravis\testtravistests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\dev\git\testtravis\testtravistests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\dev\git\testtravis\testtravistests\bin\Debug\netcoreapp2.0\testtravistests.deps.json
+c:\dev\git\testtravis\testtravistests\bin\Debug\netcoreapp2.0\testtravistests.runtimeconfig.json
+c:\dev\git\testtravis\testtravistests\bin\Debug\netcoreapp2.0\testtravistests.runtimeconfig.dev.json
+c:\dev\git\testtravis\testtravistests\bin\Debug\netcoreapp2.0\testtravistests.dll
+c:\dev\git\testtravis\testtravistests\bin\Debug\netcoreapp2.0\testtravistests.pdb
+c:\dev\git\testtravis\testtravistests\obj\Debug\netcoreapp2.0\testtravistests.csproj.CoreCompileInputs.cache
+c:\dev\git\testtravis\testtravistests\obj\Debug\netcoreapp2.0\testtravistests.AssemblyInfoInputs.cache
+c:\dev\git\testtravis\testtravistests\obj\Debug\netcoreapp2.0\testtravistests.AssemblyInfo.cs
+c:\dev\git\testtravis\testtravistests\obj\Debug\netcoreapp2.0\testtravistests.dll
+c:\dev\git\testtravis\testtravistests\obj\Debug\netcoreapp2.0\testtravistests.pdb
