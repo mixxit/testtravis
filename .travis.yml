@@ -2,7 +2,7 @@ language: csharp
 solution: testtravis.sln
 install:
   - nuget restore testtravis.sln
-  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+  - nuget install xunit.runners -Version 1.9.2 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release testtravis.sln
-  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./testtravis/testtravistests/bin/Release/netcoreapp2.0/testtravistests.dll
+  - mono ./testrunner/xunit.runners.1.9.2/tools/xunit.console.clr4.exe ./testtravis/testtravistests/bin/Release/netcoreapp2.0/testtravistests.dll
